@@ -4,6 +4,27 @@ A machine learning-based Fake News Detection system that classifies news article
 
 ---
 
+<h1 align="center">Fake News Detection API</h1>
+
+<h3 align="center">
+Machine Learning-Based Fake News Detection using TF-IDF Vectorization, Logistic Regression, and Flask API Deployment
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue">
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange">
+  <img src="https://img.shields.io/badge/NLP-TF--IDF-green">
+  <img src="https://img.shields.io/badge/Flask-REST%20API-black">
+  <img src="https://img.shields.io/badge/Text%20Classification-Fake%20News-red">
+  <img src="https://img.shields.io/badge/Status-Completed-success">
+  <img src="https://img.shields.io/badge/License-MIT-yellow">
+</p>
+
+<p align="center">
+A beginner-friendly Natural Language Processing (NLP) project that detects whether a news article is <b>Real</b> or <b>Fake</b> using TF-IDF feature extraction and Logistic Regression. The trained model is deployed through a Flask REST API for real-time predictions.
+</p>
+
+---
 ## Overview
 
 Fake news and misinformation have become major challenges in the digital era. This project demonstrates a simple Natural Language Processing (NLP) pipeline that learns textual patterns from news articles and predicts whether a given news item is authentic or misleading.
