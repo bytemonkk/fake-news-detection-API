@@ -17,7 +17,6 @@ Machine Learning-Based Fake News Detection using TF-IDF Vectorization, Logistic 
   <img src="https://img.shields.io/badge/Flask-REST%20API-black">
   <img src="https://img.shields.io/badge/Text%20Classification-Fake%20News-red">
   <img src="https://img.shields.io/badge/Status-Completed-success">
-  <img src="https://img.shields.io/badge/License-MIT-yellow">
 </p>
 
 <p align="center">
