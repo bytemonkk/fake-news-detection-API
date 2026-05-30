@@ -1,6 +1,3 @@
-# fake-news-detection-api
-A machine learning-based Fake News Detection system built using TF-IDF vectorization and Logistic Regression, deployed through a Flask REST API for real-time news classification.
-
 # Fake News Detection API
 
 A machine learning-based Fake News Detection system that classifies news articles as **Real** or **Fake** using **TF-IDF feature extraction** and **Logistic Regression**. The trained model is deployed through a **Flask REST API**, allowing users to submit news text and receive predictions in real time.
