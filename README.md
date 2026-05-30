@@ -36,11 +36,11 @@ The project covers the complete workflow:
 ```text
 fake-news-detection-api/
 │
-├── app.py                    # Flask API application
-├── trainFakeNewsModel.py     # Model training script
-├── testApi.py                # API testing script
-├── fake_news_model.pkl       # Trained Logistic Regression model
-├── tfidf_vectorizer.pkl      # Saved TF-IDF vectorizer
+├── app.py                    
+├── trainFakeNewsModel.py    
+├── testApi.py                
+├── fake_news_model.pkl       
+├── tfidf_vectorizer.pkl      
 └── README.md
 ```
 
